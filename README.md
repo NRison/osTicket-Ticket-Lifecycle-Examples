@@ -2,53 +2,28 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>Nahshon's osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+<h2>Ticket Flow Objectives</h2>
 
-<h2>Environments and Technologies Used</h2>
+- Establish Clear SLA's
+- Add mock tickets
+- Resolve mock tickeys in different ways
+- Item 4
+- Item 5
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+*Tip* <b>Right click to open in another tab otherwise it takes you to YouTube.</b> *Tip*
 
-<h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<a href="https://www.youtube.com/watch?v=QItbNVt6Kb8&t=730s">     <img width="961" alt="Screen Shot 2025-05-19 at 1 49 49 AM" src="https://github.com/user-attachments/assets/fa48ba4c-09d2-4cde-810b-c6abc6ed58ae" />
+                  
+   
+ </a>
