@@ -9,11 +9,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Flow Objectives</h2>
 
-- Establish Clear SLA's
+- Further modify clear SLA's
 - Add mock tickets
 - Resolve mock tickeys in different ways
-- Item 4
-- Item 5
+
 
 
 
