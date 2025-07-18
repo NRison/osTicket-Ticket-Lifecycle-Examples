@@ -11,7 +11,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - Further modify clear SLA's
 - Add mock tickets
-- Resolve mock tickeys in different ways
+- Resolve mock tickets in different ways
 
 
 
